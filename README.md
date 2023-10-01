@@ -7,7 +7,8 @@
 - Mycelium growth into the jaw muscles of the host.
 - neurons grown and trained on a computerized substrate
 ## Glucose Fuel Cell 
-- utilize glucose to generate energ
+- utilize glucose to generate energy
+- https://news.mit.edu/2022/glucose-fuel-cell-electricity-0512
 ## Wireless Interface to the Internet via esim
 - connect humans to towers 
 ## Neuron Mapping
