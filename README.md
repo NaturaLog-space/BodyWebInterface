@@ -15,4 +15,7 @@
 - map the connectiions on the spinal cord
 - https://anatomy.app/encyclopedia/spinal-cord
 
+## Mini Brain 
+- https://www.youtube.com/watch?v=Jz5KcUG56Vc&ab_channel=Seeker
+
   
