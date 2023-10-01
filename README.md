@@ -12,5 +12,6 @@
 - connect humans to towers 
 ## Neuron Mapping
 - map the connectiions on the spinal cord
+- https://anatomy.app/encyclopedia/spinal-cord
 
   
